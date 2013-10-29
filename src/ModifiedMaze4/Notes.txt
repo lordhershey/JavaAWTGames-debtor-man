@@ -1,0 +1,2 @@
+4 and 5 have been changed.
+  in the maze structure block 4 and 5 in row 4 has to be modified I cut the middle out.
