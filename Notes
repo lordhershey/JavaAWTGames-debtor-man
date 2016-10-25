@@ -1,0 +1,7 @@
+Plans: Remove fixed gifs, Generate images depending on maze data, just 
+didn't do it that way initially since I was lazy. Also generated maze 
+could have affects applied to it that would be cool. Random Maze gneration 
+should be possible to imoplement as well.
+
+I would also like to add bonus items that wander into the maze. walk around 
+for a bit and then either be eaten or wander out.
